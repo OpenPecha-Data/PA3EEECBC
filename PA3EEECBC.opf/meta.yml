@@ -1,0 +1,31 @@
+id: PA3EEECBC
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6086
+  instance_id: http://purl.bdrc.io/resource/IE1KG6086
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    zh-latn-pinyin-x-ndia:
+    - zang yi dui yi xing gan yan de zhen duan yu zhi liao
+    bo:
+    - གཉན་ནད་མཆིན་ལྡེམ་གྱི་བརྟག་བཅོས།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1KG983
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    376c57e5c53a47c6ae18bc8e9ae1e1ee:
+      title: པོད་གཉན་ནད་མཆིན་ལྡེམ་གྱི་བརྟག་བཅོས
+      volume_number: 1
+      base_file: UT1KG6086_WWKP15_8_0000.txt
+      reference: http://purl.bdrc.io/resource/VL574B68F14EB33110
+      image_group: WWKP15_8
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6086
+  - http://purl.bdrc.io/resource/W1KG6086
+  ocr_software: Namsel
+created_at: '2021-12-22T10:53:46.568439'
+last_modified_at: '2021-12-22T10:53:46.568444'
